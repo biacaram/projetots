@@ -1,0 +1,210 @@
+/* Página principal */
+
+.barra {
+	display: flex;
+	background-color: #e5e3da;
+}
+
+.barra li {
+	display: inline-flex;
+	padding: 20px;
+	margin: 5px;
+	font-weight: 600;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.barra a {
+	text-decoration: none;
+	color: #645e87;
+}
+
+.barra a:hover {
+	color: #9892ce;
+}
+
+.card {
+	padding: 30px;
+	text-align: center;
+}
+
+.card h3 {
+	color: #e8688a;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	font-size: 26px;
+}
+
+.card p {
+	text-align: center;
+	font-size: 16.5px;
+	color: #48b9b3;
+	font-weight: 500;
+}
+
+#plantas {
+	padding-top: 1px;
+	margin-top: 1px;
+}
+
+body{
+	margin: 1px;
+	background-color: #f7f5ed;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.footer {
+	background-color: #1E1E1E;
+	padding: 25px;
+	color: lightgrey;
+}
+
+.footer a {
+	color: lightgrey;
+	font-size: 15px;
+	line-height: 30px;
+	font-weight: 300;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	color: #aba6ed;
+}
+
+.footer i {
+	font-size: 20px;
+}
+
+.footer h4 {
+	font-weight: 300;
+	margin: 10px;
+}
+
+/* about */
+
+.about {
+	text-align: center;
+	text-align: justify;
+	margin: 20px 40px 40px 40px;
+}
+
+.about h3 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
+	font-weight: 400;
+	color: #48b9b2;
+	text-shadow: 1px 1px 1px #606060;
+	text-align: center;
+}
+
+.about p {
+	color: #5a5b5b;
+	font-weight: 500;
+	font-size: 18px;
+	padding: 50px;
+	padding-top: 20px;
+	margin: 20px 50px 20px 50px;
+}
+
+strong {
+	font-weight: 900;
+}
+
+.raquel {
+	margin-left: 100px;
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+
+/* produtos */
+
+.produtos {
+	margin: 20px 40px 40px 80px;
+}
+
+.produtos h3 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
+	font-weight: 400;
+	color: #48b9b2;
+	text-shadow: 1px 1px 1px #606060;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.produtos img {
+	margin: 20px;
+	align-content: center;
+	border-style: solid;
+	border-color: #E5E3DA;
+	border-width: 3px;
+	border-radius: 4px;
+	position: center;
+}
+
+/* Onde encontrar */
+
+.onde {
+	margin: 20px 140px 40px 140px;
+}
+
+.onde h3 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
+	font-weight: 400;
+	color: #48b9b2;
+	text-shadow: 1px 1px 1px #606060;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.onde h4 {
+	color: #E8689A;
+	font-weight: 600;
+
+}
+
+.onde i {
+	font-size: 30px;
+}
+
+.onde p {
+	color: #5A5B5B;
+	font-weight: 500;
+}
+
+.onde a {
+	color: #5A5B5B;
+	font-weight: 500;
+}
+
+.onde a:hover {
+	color: #7974bc;
+}
+
+/* por que usar */
+
+.porque {
+	text-align: center;
+	text-align: justify;
+	margin: 20px 40px 40px 40px;
+}
+
+.porque h3 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
+	font-weight: 400;
+	color: #48b9b2;
+	text-shadow: 1px 1px 1px #606060;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.porque p {
+	color: #5a5b5b;
+	font-weight: 500;
+	font-size: 18px;
+	padding: 50px;
+	padding-top: 0px;
+	margin: 20px 50px 20px 50px;
+}
