@@ -1,5 +1,7 @@
 /* Página principal */
 
+
+
 .barra {
 	display: flex;
 	background-color: #e5e3da;
@@ -188,6 +190,7 @@ strong {
 	text-align: center;
 	text-align: justify;
 	margin: 20px 40px 40px 40px;
+	height: 60vh;
 }
 
 .porque h3 {
